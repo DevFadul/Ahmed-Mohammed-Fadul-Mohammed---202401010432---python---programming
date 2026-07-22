@@ -14,3 +14,8 @@ based on the issue's priority level.
 ## How to Use
 1. Clone/download the repository and navigate to the `week_9` directory.
 2. Run the program:
+
+
+
+https://github.com/user-attachments/assets/1c5838de-98ca-4efe-b218-adf95c8c6874
+
